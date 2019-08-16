@@ -1,0 +1,127 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "amzn1.echo-api.session.a55e01ff-8e0e-4f53-a07e-a4c70582d504",
+		"application": {
+			"applicationId": "amzn1.ask.skill.7dce589c-86b5-40ca-ba81-7faef17a058a"
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AHOJNL7GBZTVK4M677PLMXG73NHSHCKMIKFCJQJUOGGCAQN6N23MMOIW3BAOWGKXRPYSBZUZTCTUWTZYIR34WVE36ZK4AWR7WY7WHSTLCR72PIMIIIBYFQSR3RIRICGU6UTKAEVXTUOXI6ZE7FBKL226G6TAX6QCI6CEF6ZO3ZLLTTAAJSQBG3CXSPSI7YE3IU3D634QDZ67HKQ"
+		}
+	},
+	"context": {
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.7dce589c-86b5-40ca-ba81-7faef17a058a"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AHOJNL7GBZTVK4M677PLMXG73NHSHCKMIKFCJQJUOGGCAQN6N23MMOIW3BAOWGKXRPYSBZUZTCTUWTZYIR34WVE36ZK4AWR7WY7WHSTLCR72PIMIIIBYFQSR3RIRICGU6UTKAEVXTUOXI6ZE7FBKL226G6TAX6QCI6CEF6ZO3ZLLTTAAJSQBG3CXSPSI7YE3IU3D634QDZ67HKQ"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AFNHGQBG2VHWYG57YWU7DO6MYZSVLU72LDVZWIFQUOHPIK2SMUMXE2JV2R7YJR35LE357HYQPU7D5GJTZJWYYGGCY3MLVCASLVPNMHSGKOQPXVTR4RZMXJXABJLHUJTOTWKROOY4QDLL2NJNPFU425FI75DXJEXMCBFPG6WSCJ2O3CUNGAWLU",
+				"supportedInterfaces": {}
+			},
+			"apiEndpoint": "https://api.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjdkY2U1ODljLTg2YjUtNDBjYS1iYTgxLTdmYWVmMTdhMDU4YSIsImV4cCI6MTU2Mjc2OTQ3NiwiaWF0IjoxNTYyNzY5MTc2LCJuYmYiOjE1NjI3NjkxNzYsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFDcG1BR1Z3WG5JZXhHUU9MYjN1RSsxS3dFQUFBQUFBQUFBcFdJMHpNZ0o3SHFiWXhDNnNWZHVwcEMxS3BiUHN4L0IvYVQ4SHlqV01LNDhub2xRZ2M3Z01ZUEJtOUhEL2plaW1BNlJRWkZjY2tMaWV6bDdwUE56UzdBYnFUakdBem9VakcxZEJ0RWZvRzN4RnVTQ3ZEaHFoTnVlNnJqUU5wYTZDSXR4amhtcHEraEFjTXM3a1d2SDB2UVJ3d0lzOXRwSVhGNk01dUhXWmJlcmxXWDJyMmJkNEVrVG04cGM4cmkxMGFnaUx0YWNpcFkwODV0WUJCQnBuQnplT0pHS2lBZ0xBWmVsWXoxMUtPNnZkMHdVL3Q2VWhOK3hiaVdaR255QTlRam9jd3BucWpxbHNFS0tkcWlJVktkbjFpd2VHWmhMcWsxcGNPMXZqUjFNdHVJR2kreWgzV3MxS2ZqNmJ2dUdYK0VTZzdZYi9nV3VPOHF5WEpORWxuUFVpbG1TK1luMHE2SEtjejFqKzg4RGt2ZVdZcVZGaEVRbzNYR0UxTUFFTTgvYmpOMHFXcEtxamc9PSIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFGTkhHUUJHMlZIV1lHNTdZV1U3RE82TVlaU1ZMVTcyTERWWldJRlFVT0hQSUsyU01VTVhFMkpWMlI3WUpSMzVMRTM1N0hZUVBVN0Q1R0pUWkpXWVlHR0NZM01MVkNBU0xWUE5NSFNHS09RUFhWVFI0UlpNWEpYQUJKTEhVSlRPVFdLUk9PWTRRRExMMk5KTlBGVTQyNUZJNzVEWEpFWE1DQkZQRzZXU0NKMk8zQ1VOR0FXTFUiLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BSE9KTkw3R0JaVFZLNE02NzdQTE1YRzczTkhTSENLTUlLRkNKUUpVT0dHQ0FRTjZOMjNNTU9JVzNCQU9XR0tYUlBZU0JaVVpUQ1RVV1RaWUlSMzRXVkUzNlpLNEFXUjdXWTdXSFNUTENSNzJQSU1JSUlCWUZRU1IzUklSSUNHVTZVVEtBRVZYVFVPWEk2WkU3RkJLTDIyNkc2VEFYNlFDSTZDRUY2Wk8zWkxMVFRBQUpTUUJHM0NYU1BTSTdZRTNJVTNENjM0UURaNjdIS1EifX0.jvW3b2KnN6mnEc96Pk8Y5jIUcVMimJp4n8g_ZMYXH19G89wk4zt8qnSycvZnUXngqzd3ub6rvksICmAa8KQZJ5Z3UfmJhHGmdvA-35hlz9YrNiCBJlbD3AHdgN0-WRFnbyhcnFSKGnYfzrOjuhBac7rJoM6UuOdHJWOa-vHwNfaSQU1N1us-fI5WR-9vKno8IE68nSb-nJk-xugzqnHP6OMhi3MoxA_0dnS8tCqZwrmAHdNp7nDSNn87LPJxbxf0nreR8YHWSugSSKcBElMCof69t3LDmPONBcM8U2rvVBCFtmBnd1_MV8AOxO7kIopZQEt9YQHd3gBmXHhshC28sA"
+		},
+		"Viewport": {
+			"experiences": [
+				{
+					"arcMinuteWidth": 246,
+					"arcMinuteHeight": 144,
+					"canRotate": false,
+					"canResize": false
+				}
+			],
+			"shape": "RECTANGLE",
+			"pixelWidth": 1024,
+			"pixelHeight": 600,
+			"dpi": 160,
+			"currentPixelWidth": 1024,
+			"currentPixelHeight": 600,
+			"touch": [
+				"SINGLE"
+			],
+			"video": {
+				"codecs": [
+					"H_264_42",
+					"H_264_41"
+				]
+			}
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.73dca0bb-ec95-44ef-b6e4-2f27fdf33df8",
+		"timestamp": "2019-07-10T14:32:56Z",
+		"locale": "en-US",
+		"intent": {
+			"name": "DINING_LocationOpenCloseTimeIntent",
+			"confirmationStatus": "NONE",
+			"slots": {
+				"Restaurant": {
+					"name": "Restaurant",
+					"value": "Starbucks",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.7dce589c-86b5-40ca-ba81-7faef17a058a.Restaurant",
+								"status": {
+									"code": "ER_SUCCESS_MATCH"
+								},
+								"values": [
+									{
+										"value": {
+											"name": "Starbucks",
+											"id": "e486aeca0b12918313aba2cc445c5cb4"
+										}
+									}
+								]
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				},
+				"OpenClose": {
+					"name": "OpenClose",
+					"value": "open",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.7dce589c-86b5-40ca-ba81-7faef17a058a.OpenClose",
+								"status": {
+									"code": "ER_SUCCESS_MATCH"
+								},
+								"values": [
+									{
+										"value": {
+											"name": "Open",
+											"id": "c3bf447eabe632720a3aa1a7ce401274"
+										}
+									}
+								]
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				},
+				"time": {
+					"name": "time",
+					"value": "11:00",
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				},
+				"day": {
+					"name": "day",
+					"value": "2019-07-11",
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				}
+			}
+		},
+		"dialogState": "COMPLETED"
+	}
+}

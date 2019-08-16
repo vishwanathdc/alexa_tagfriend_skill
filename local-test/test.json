@@ -1,0 +1,115 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "amzn1.echo-api.session.8eefd331-4d60-4b01-80ef-410cbcb65667",
+		"application": {
+			"applicationId": "amzn1.ask.skill.7dce589c-86b5-40ca-ba81-7faef17a058a"
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AHOJNL7GBZTVK4M677PLMXG73NHSHCKMIKFCJQJUOGGCAQN6N23MMOIW3BAOWGKXRPYSBZUZTCTUWTZYIR34WVE36ZK4AWR7WY7WHSTLCR72PIMIIIBYFQSR3RIRICGU6UTKAEVXTUOXI6ZE7FBKL226G6TAX6QCI6CEF6ZO3ZLLTTAAJSQBG3CXSPSI7YE3IU3D634QDZ67HKQ"
+		}
+	},
+	"context": {
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.7dce589c-86b5-40ca-ba81-7faef17a058a"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AHOJNL7GBZTVK4M677PLMXG73NHSHCKMIKFCJQJUOGGCAQN6N23MMOIW3BAOWGKXRPYSBZUZTCTUWTZYIR34WVE36ZK4AWR7WY7WHSTLCR72PIMIIIBYFQSR3RIRICGU6UTKAEVXTUOXI6ZE7FBKL226G6TAX6QCI6CEF6ZO3ZLLTTAAJSQBG3CXSPSI7YE3IU3D634QDZ67HKQ"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AFNHGQBG2VHWYG57YWU7DO6MYZSVLU72LDVZWIFQUOHPIK2SMUMXE2JV2R7YJR35LE357HYQPU7D5GJTZJWYYGGCY3MLVCASLVPNMHSGKOQPXVTR4RZMXJXABJLHUJTOTWKROOY4QDLL2NJNPFU425FI75DXJEXMCBFPG6WSCJ2O3CUNGAWLU",
+				"supportedInterfaces": {}
+			},
+			"apiEndpoint": "https://api.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjdkY2U1ODljLTg2YjUtNDBjYS1iYTgxLTdmYWVmMTdhMDU4YSIsImV4cCI6MTU2NDA5MTE2MSwiaWF0IjoxNTY0MDkwODYxLCJuYmYiOjE1NjQwOTA4NjEsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFCak55TDZraCtLdkNQSnJ6bEZVT1ZwS3dFQUFBQUFBQUNlbFZYeDZSVnpDSlNqNFAwK2VocVV6RFUwUXBRTUNhTjFIWWxYSW5UcDZqVzl3SHlJMVFPMDRwRWxocmJ1dVMxMThtZkhVNUVYVkUyak1WVTJjalA1cEd2TGFsc1lQN1NxNE1iVHF5V01DTkJyeWN4VWRqTGxncUhnUXI5akxwYkJlMG9uN3pZSUJ2UWU3eU5FR2Z2RS9qbHpzbEpiMENlakVKckJYd3BkQzZDV3U2Zmp5andTZytOL09CVUl0TXZQZWhLMnNJMWlTM1U3NVE3c2FRQk5COGJia2FvTG03VUtZVEJERlFHOTdCbFJDdmVVNThwU0dWQmZaN3VCSktzNk9meWRHRVQzdUU1b21TeU5PZTNWcGhaU09xRVFHMXlBN0xXMkJtMHJCT3V3bWZHUUhZQzRaUm9qNXlkSVFXZXJ6enQ3NnplWFgwaEg5cHhjTHhYTkZ6L2NMUmo1ZjkyYk5UbCtMS0VZdGc5Q3IwUHArbSszOHAvbk5IZUhLdzVUbjJGSWxyZzZrSEE3QWc9PSIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFGTkhHUUJHMlZIV1lHNTdZV1U3RE82TVlaU1ZMVTcyTERWWldJRlFVT0hQSUsyU01VTVhFMkpWMlI3WUpSMzVMRTM1N0hZUVBVN0Q1R0pUWkpXWVlHR0NZM01MVkNBU0xWUE5NSFNHS09RUFhWVFI0UlpNWEpYQUJKTEhVSlRPVFdLUk9PWTRRRExMMk5KTlBGVTQyNUZJNzVEWEpFWE1DQkZQRzZXU0NKMk8zQ1VOR0FXTFUiLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BSE9KTkw3R0JaVFZLNE02NzdQTE1YRzczTkhTSENLTUlLRkNKUUpVT0dHQ0FRTjZOMjNNTU9JVzNCQU9XR0tYUlBZU0JaVVpUQ1RVV1RaWUlSMzRXVkUzNlpLNEFXUjdXWTdXSFNUTENSNzJQSU1JSUlCWUZRU1IzUklSSUNHVTZVVEtBRVZYVFVPWEk2WkU3RkJLTDIyNkc2VEFYNlFDSTZDRUY2Wk8zWkxMVFRBQUpTUUJHM0NYU1BTSTdZRTNJVTNENjM0UURaNjdIS1EifX0.N9GjZo2nHhvhZGRn-kDq2lHSQsHgOoG1BVTWfOMeDwDPZ9z9JqVn1Ghl7EHLtD1dJOBkZqHU-s4PAz_Xu6-D6NeOU9ZvMSFSkQ4_NTmAGwpO1Aw_w4ltvxrVY23uymBPqU2GkcSzpjCYcnCn0AImGv2r3Y4WPx8y1ol6miiFR1BLtBk3kDOlRBCLoFNdJOYt-kicOjZfrfM04iTcBZFwMwDcuxMVRxKmYlM2kXdZDj7_TBljijF-VgnWKV7rwRLVYE9wW1xxGe8nbObAFq3rFyZ2FijbPekDXaSDBIpcGaVBEqkVdEECHY04yOACVw-zXKHV-_7TKD0UyZio5zIq_g"
+		},
+		"Viewport": {
+			"experiences": [
+				{
+					"arcMinuteWidth": 246,
+					"arcMinuteHeight": 144,
+					"canRotate": false,
+					"canResize": false
+				}
+			],
+			"shape": "RECTANGLE",
+			"pixelWidth": 1024,
+			"pixelHeight": 600,
+			"dpi": 160,
+			"currentPixelWidth": 1024,
+			"currentPixelHeight": 600,
+			"touch": [
+				"SINGLE"
+			],
+			"video": {
+				"codecs": [
+					"H_264_42",
+					"H_264_41"
+				]
+			}
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.7e0d64a3-e616-4228-81dc-4201fe78cc66",
+		"timestamp": "2019-07-25T21:41:02Z",
+		"locale": "en-US",
+		"intent": {
+			"name": "PARKING_ElectricSpacesIntent",
+			"confirmationStatus": "NONE",
+			"slots": {
+				"Lot": {
+					"name": "Lot",
+					"value": "lot a",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.7dce589c-86b5-40ca-ba81-7faef17a058a.Lot",
+								"status": {
+									"code": "ER_SUCCESS_MATCH"
+								},
+								"values": [
+									{
+										"value": {
+											"name": "Lot A",
+											"id": "3d29a669ebaf24a92b50b0d0dab98bbd"
+										}
+									},
+									{
+										"value": {
+											"name": "Lot H",
+											"id": "94deebdaa43a08434ac5c22e4fd9b0be"
+										}
+									},
+									{
+										"value": {
+											"name": "Lot Q",
+											"id": "9afaea46efb680ef705d8e7dab4f5388"
+										}
+									},
+									{
+										"value": {
+											"name": "Lot L",
+											"id": "5526d978966dfffad35cbb3b8e70fe72"
+										}
+									},
+									{
+										"value": {
+											"name": "Lot V",
+											"id": "fca6284bfacb243812bac6973da5f53f"
+										}
+									}
+								]
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				}
+			}
+		},
+		"dialogState": "COMPLETED"
+	}
+}
