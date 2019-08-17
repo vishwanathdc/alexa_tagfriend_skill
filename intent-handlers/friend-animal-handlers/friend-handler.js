@@ -29,6 +29,7 @@ const FriendIntentHandler = {
             speechText = "I got your friend's name, now tell me an animal that you dont like.";
             sessionAttributes.friendname = friendname;
         }
+        sessionAttributes.lastspeech = speechText;
         console.log("attributes: ", sessionAttributes);
         handlerInput.attributesManager.setSessionAttributes(sessionAttributes); 
         

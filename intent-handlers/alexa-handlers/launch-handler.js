@@ -10,6 +10,7 @@ const AMAZON_LaunchRequestHandler = {
         const sessionAttributes = handlerInput.attributesManager.getSessionAttributes();
         sessionAttributes.friendname = "";
         sessionAttributes.animalname = "";
+        sessionAttributes.lastspeech = speechText;
         handlerInput.attributesManager.setSessionAttributes(sessionAttributes);
         console.log(sessionAttributes);
         console.log(speechText);
