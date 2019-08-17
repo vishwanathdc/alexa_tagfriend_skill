@@ -24,9 +24,10 @@ const AnimalIntentHandler = {
             sessionAttributes.animalname = "";
         }
         else{
-            speechText = "I got the animal you dont like, now tell me your friend's name";
+            speechText = "OK, now tell me your friend's name";
             sessionAttributes.animalname = animalname;
         }
+        sessionAttributes.lastspeech = speechText;
         handlerInput.attributesManager.setSessionAttributes(sessionAttributes); 
         console.log(speechText);
         return handlerInput.responseBuilder
