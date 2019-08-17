@@ -5,7 +5,7 @@ const AMAZON_LaunchRequestHandler = {
         return handlerInput.requestEnvelope.request.type === 'LaunchRequest';
     },
     handle(handlerInput) {
-        const speechText = "welcome to tag friend, tell me your friend's name";
+        const speechText = "welcome to tag a friend, tell me your friend's name";
         let reprompt = "tell me your friend's name";
         const sessionAttributes = handlerInput.attributesManager.getSessionAttributes();
         sessionAttributes.friendname = "";
